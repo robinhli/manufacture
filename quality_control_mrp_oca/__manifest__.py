@@ -19,6 +19,7 @@
         "views/qc_inspection_view.xml",
         "views/mrp_production_view.xml",
     ],
+    "post_init_hook": "post_init_hook",
     "installable": True,
     "auto_install": True,
 }
